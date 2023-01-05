@@ -1,4 +1,4 @@
-package singleton
+package a_singleton
 
 // Singleton 饿汉式单例
 type Singleton struct {}
